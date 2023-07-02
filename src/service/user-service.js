@@ -28,7 +28,7 @@ const register = async (request) => {
     data: user,
     select: {
       username: true,
-      password: true,
+      name: true,
     },
   });
 
