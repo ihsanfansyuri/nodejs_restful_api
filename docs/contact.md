@@ -78,7 +78,7 @@ Response Body Error:
 
 ```json
 {
-  "errors": "Email is not valid format"
+  "errors": "contact is not found"
 }
 ```
 
